@@ -23,4 +23,14 @@ namespace polyNinheritance
         SpeedBoat,
         FlatBoat
     }
+
+    public enum VehicleColor
+    {
+        Red,
+        Yellow,
+        Blue,
+        Green, 
+        White,
+        Black
+    }
 }
