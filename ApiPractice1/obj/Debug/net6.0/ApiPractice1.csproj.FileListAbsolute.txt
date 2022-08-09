@@ -1,0 +1,15 @@
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\bin\Debug\net6.0\ApiPractice1.exe
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\bin\Debug\net6.0\ApiPractice1.deps.json
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\bin\Debug\net6.0\ApiPractice1.runtimeconfig.json
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\bin\Debug\net6.0\ApiPractice1.dll
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\bin\Debug\net6.0\ApiPractice1.pdb
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\obj\Debug\net6.0\ApiPractice1.csproj.AssemblyReference.cache
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\obj\Debug\net6.0\ApiPractice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\obj\Debug\net6.0\ApiPractice1.AssemblyInfoInputs.cache
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\obj\Debug\net6.0\ApiPractice1.AssemblyInfo.cs
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\obj\Debug\net6.0\ApiPractice1.csproj.CoreCompileInputs.cache
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\obj\Debug\net6.0\ApiPractice1.dll
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\obj\Debug\net6.0\refint\ApiPractice1.dll
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\obj\Debug\net6.0\ApiPractice1.pdb
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\obj\Debug\net6.0\ApiPractice1.genruntimeconfig.cache
+C:\Users\hkgna\Desktop\Allbatchfiles\jesselawrencerevature1\Practice\C#\ApiPractice1\obj\Debug\net6.0\ref\ApiPractice1.dll
